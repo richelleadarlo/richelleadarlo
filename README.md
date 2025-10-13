@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Richelle, a final-year Computer Science student at Lyceum of the Philippines University - Batangas, specializing in Data Science. 
+I'm Richelle, a final-year computer science student at Lyceum of the Philippines University - Batangas, specializing in data science. 
 
 Over the years, I’ve built a strong foundation in data analysis, machine learning, and programming — all things that help me turn complex problems into data-driven solutions.
 
