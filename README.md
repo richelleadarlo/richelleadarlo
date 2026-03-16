@@ -9,4 +9,4 @@ Outside of all the uni work, I’ve always loved fashion and the creative side o
 My goal is to blend my data science background with my passion for design to build smart, innovative, and user-friendly digital experiences :)
 
 ## Let's connect!
-<a href="https://www.linkedin.com/in/richelle-grace-adarlo-11377b283/" target="_blank">🌐 LinkedIn</a>
+<a href="https://www.linkedin.com/in/richelle-grace-adarlo/" target="_blank">🌐 LinkedIn</a>
